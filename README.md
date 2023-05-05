@@ -1,5 +1,7 @@
 # Spark-assignment
 
+Note: I have removed API keys, secrets and passwords from the attached scripts to avoid any security breach. Hence you will see <>' sign at those places.
+
 * I have three scripts covid-producer.py, covid-consumer.py and pysparkDF.py created to accomplish this project. 
 * Producr script will accept runtime variables such as topicname, subject and filename (Files which are downloaded as part of covid dataset). Assuming that all files are stored in the same location, we can parse the files names from the same script using different producers csessions will be generating data to kafka topics individually.
 
