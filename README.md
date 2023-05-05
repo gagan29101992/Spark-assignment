@@ -349,4 +349,17 @@ only showing top 20 rows
 
 abc@6500f4c8005c:~/workspace$ 
 
+Screenshot of mongodb collections:
+
+![image](https://user-images.githubusercontent.com/119027506/236387605-5dd5e57b-15f6-4858-84eb-b88923a27bf8.png)
+
+Screenshot of kafka topcis:
+
+![image](https://user-images.githubusercontent.com/119027506/236387735-a9c89447-f2cc-46f1-aca6-d4cc7c7cc59f.png)
+
+Screenshots of Schema- registry:
+
+![image](https://user-images.githubusercontent.com/119027506/236387821-164464b0-8373-4001-b283-aab46981fd67.png)
+
+
 
